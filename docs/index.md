@@ -1,5 +1,9 @@
 ## Coding Web Sites
 
+In this project, you’ll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+
+Full project [instructions](https://projects.raspberrypi.org/en/projects/happy-birthday){:target="_blank" rel="noopener"}
+
 ### Step 1 - Logon on to Trinket
 
 1. Open [trinket.io](https://trinket.io){:target="_blank" rel="noopener"}
