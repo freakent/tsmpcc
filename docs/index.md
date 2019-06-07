@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## Coding Web Sites
 
-You can use the [editor on GitHub](https://github.com/freakent/tsmpcc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Step 1 - Logon on to Trinket
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Open [trinket.io](https://trinket.io){:target="_blank" rel="noopener"}
 
-### Markdown
+2. Click Log In (top right)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. Enter Username and password
+
+Username: **tsmpcc**N  _(where N = 1 to 12)_
+Password: **codeclub**
+
+### Step 2 - Open the first project
+
+1. Open [web intro project](jumpto.cc/web-intro){:target="_blank" rel="noopener"}
 
 ```markdown
 Syntax highlighted code block
